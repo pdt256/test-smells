@@ -17,7 +17,7 @@ class SevenLayerTesting extends \PHPUnit_Framework_TestCase
         $this->subject = new Financials();
     }
 
-    public function testComputesTransactionProvit()
+    public function testComputesTransactionProfit()
     {
         $this->assertTrue(true);
     }
