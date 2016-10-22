@@ -40,6 +40,16 @@ $ yarn test
 Most tests should pass. (If a few tests fail, that's okay. Some of the tests are
 designed to fail erratically.)
 
+### PHP
+
+This repo supports [PHP](http://php.net) 7.0 & up. Install and run the tests with:
+
+```
+$ composer install
+$ vendor/bin/phpunit
+```
+
+
 ## How to use this Repo
 
 This repo was created to facilitate workshops conducted by [Test
